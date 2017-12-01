@@ -1,0 +1,2 @@
+# dailyfresh
+django_project
